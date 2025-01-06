@@ -5,13 +5,7 @@
 I work as a receptionist in a beauty salon, handling administrative tasks and managing Instagram posts, including stories, using tools like Photoshop. I also provide services for another company, creating certificates and study materials.
 
 - 🌱 I’m currently learning
-I’m studying programming with a focus on 
-            <i class="devicon-html5-plain-wordmark"></i>
-          , 
-            <i class="devicon-css3-plain-wordmark"></i>
-          , and 
-            <i class="devicon-javascript-plain colored"></i>
-          . I’ve completed several courses on Alura, which are listed on my LinkedIn profile.
+I’m studying programming with a focus on <i class="devicon-html5-plain-wordmark"></i>, <i class="devicon-css3-plain-wordmark"></i>, and <i class="devicon-javascript-plain colored"></i>. I’ve completed several courses on Alura, which are listed on my LinkedIn profile.
 
 - 👯 I’m looking to collaborate on
 Projects related to web development or graphic design, especially focused on front-end development or digital content creation.
@@ -33,10 +27,3 @@ Combining administrative work with graphic design and programming studies has he
 <a href="https://www.linkedin.com/in/juan-silva-5b591a342/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<div>
-<a href="https://github.com/07Jbig">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?07Jbig&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?07Jbig&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Snake animation](https://github.com/07big/07big/blob/output/github-contribution-grid-snake.svg)
