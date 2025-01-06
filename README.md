@@ -1,11 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Juan and my nickname is "07Jbig"!
-https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif
-
-<!--
-**07Jbig/07Jbig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
 I work as a receptionist in a beauty salon, handling administrative tasks and managing Instagram posts, including stories, using tools like Photoshop. I also provide services for another company, creating certificates and study materials.
