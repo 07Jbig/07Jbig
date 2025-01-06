@@ -5,7 +5,13 @@
 I work as a receptionist in a beauty salon, handling administrative tasks and managing Instagram posts, including stories, using tools like Photoshop. I also provide services for another company, creating certificates and study materials.
 
 - 🌱 I’m currently learning
-I’m studying programming with a focus on <i class="devicon-html5-plain-wordmark"></i>, <i class="devicon-css3-plain-wordmark"></i>, and <i class="devicon-javascript-plain colored"></i>. I’ve completed several courses on Alura, which are listed on my LinkedIn profile.
+I’m studying programming with a focus on 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          , 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          , and 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          . I’ve completed several courses on Alura, which are listed on my LinkedIn profile.
 
 - 👯 I’m looking to collaborate on
 Projects related to web development or graphic design, especially focused on front-end development or digital content creation.
