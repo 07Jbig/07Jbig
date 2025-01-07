@@ -1,6 +1,4 @@
-# 👋 Hello! Welcome to my GitHub profile.
-## My name is Juan and my nickname is "07Jbig"!
-
+# 👋 Hello! my name is Juan "07Jbig"
 I am a versatile professional combining administrative expertise with graphic design and programming skills. I’m currently diving into front-end web development, exploring HTML, CSS, and JavaScript.
 
 ### 🚀 What I do:
