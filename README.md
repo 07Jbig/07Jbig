@@ -6,9 +6,9 @@ I am a versatile professional combining administrative expertise with graphic de
 ### 🚀 What I do:
 - 💼 **Current job**: I work as a receptionist at a beauty salon, handling administrative tasks and managing Instagram posts using tools like Photoshop. I also collaborate with another company, creating certificates and study materials.
 - 🌱 **Learning**: I'm studying programming with a focus on web development technologies:
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="25" height="25"/> HTML5
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="25" height="25"/> CSS3
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25"/> JavaScript
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="25" height="25"/> 
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="25" height="25"/> 
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="25" height="25"/> 
 
 ### 💡 I’m looking to collaborate on:
 Projects related to **web development** or **graphic design**, especially focused on **front-end development** or **digital content creation**.
@@ -26,9 +26,11 @@ Deepening my knowledge of **JavaScript** and **web development best practices**,
 Combining **administrative work** with **graphic design** and **programming studies** has helped me develop a **multidisciplinary skill set**, making me adaptable to various tasks and challenges!
 
 ## 📫 Contacts
-- [Instagram](https://instagram.com/_jnxz07_dela) ![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-- [Gmail](mailto:silva.juan21@icloud.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/juan-silva-5b591a342/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<div>
+<a href="https://instagram.com/_jnxz07_dela" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "silva.juan21@icloud.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/juan-silva-5b591a342/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ## 📈 GitHub Stats
 ![Juan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=07Jbig&show_icons=true&count_private=true&hide=prs&theme=radical)
